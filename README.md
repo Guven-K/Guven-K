@@ -1,10 +1,6 @@
-## Hi there 👋
-
 <!--
 **Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
 # Hi there! 👋 I'm Guven  
 
 ## 🌟 About Me  

@@ -6,7 +6,7 @@
 ## 🌟 About Me  
 - 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  
 - 🔭 Currently working on:  
-  - **Pixel Odyssey** (Unity-based project with diverse biomes and wildlife).  
+  - **Pixel Odyssey** (Gamemaker studio project with diverse space exploration and a showcase of my capability in game development).  
   - **Avalonia Portfolio App** (customizable and user-friendly project showcase).  
 - 🌱 Always learning and improving my skills, currently diving deeper into **Dependency Injection** and **algorithms** in C#.  
 

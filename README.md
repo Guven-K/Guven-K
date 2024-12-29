@@ -12,7 +12,8 @@
 - 🔭 Currently working on:  
   - **Pixel Odyssey** (GameMaker Studio project featuring diverse space exploration and showcasing my capabilities in game development).  
   - **Avalonia Portfolio App** (customisable and user-friendly project showcase).  
-- 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#.  
+- 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#.
+- 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and strive towards becoming a well-rounded, experienced developer with a focus on impactful projects and continuous growth.  
 
 ---
 

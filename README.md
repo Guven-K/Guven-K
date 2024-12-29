@@ -1,14 +1,33 @@
 <!--
 **Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<!--
+**Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 # Hi there! 👋 I'm Guven  
 
 ## 🌟 About Me  
 - 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  
 - 🔭 Currently working on:  
-  - **Pixel Odyssey** (Gamemaker studio project with diverse space exploration and a showcase of my capability in game development).  
-  - **Avalonia Portfolio App** (customizable and user-friendly project showcase).  
-- 🌱 Always learning and improving my skills, currently diving deeper into **Dependency Injection** and **algorithms** in C#.  
+  - **Pixel Odyssey** (GameMaker Studio project featuring diverse space exploration and showcasing my capabilities in game development).  
+  - **Avalonia Portfolio App** (customisable and user-friendly project showcase).  
+- 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#.  
+
+---
+
+## 🛠️ Programming Languages & Frameworks  
+- **Languages**:  
+  - C#: Proficient in building applications, including GUI-based tools and game logic.  
+  - Python: Experience with scripting and automation.  
+  - JavaScript: Knowledge of front-end basics for web applications. 
+  - HTML & CSS: Comfortable creating responsive and visually appealing web designs.  
+
+- **Frameworks & Tools**:  
+  - Avalonia: Focused on cross-platform GUI development.  
+  - WPF: Familiar with creating Windows desktop applications.  
+  - Unity: Experience with game development projects.  
+  - GameMaker Studio: Developing creative and immersive gameplay mechanics.  
 
 ---
 

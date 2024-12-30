@@ -28,8 +28,7 @@
   - Avalonia: Focused on cross-platform GUI development.  
   - WPF: Familiar with creating Windows desktop applications.  
   - Unity: Experience with game development projects.  
-  - GameMaker Studio: Developing creative and immersive gameplay mechanics.  ![](https://preview.redd.it/6bmvuaf19hq51.gif?width=256&format=mp4&s=41c3e27e03b3f16523d580e804e203906e402338)
-
+  - GameMaker Studio: Developing creative and immersive gameplay mechanics.  ![](https://preview.redd.it/6bmvuaf19hq51.gif?) 
 ---
 
 ## ⚡ Fun Facts  

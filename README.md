@@ -38,3 +38,8 @@
 - 🏡 Born and raised in London, with a strong connection to family and community.  
 
 ---
+
+## ✉️ Let's get in touch
+- Feel free to send a message on GitHub 
+- Follow me on Instagram! @guven_dev 
+

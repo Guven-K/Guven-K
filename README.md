@@ -39,6 +39,11 @@
 
 ---
 
+## 🎯 Personal Goals & Aspirations
+- Master **C++** in 2025.
+- Contribute to more open-source projects and build impactful tools for the developer community.
+
+
 ## ✉️ Let's get in touch
 - Follow me on Instagram! @guven_dev 
 

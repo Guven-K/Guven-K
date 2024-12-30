@@ -30,7 +30,7 @@
   - Unity: Experience with game development projects.  
   - GameMaker Studio: Developing creative and immersive gameplay mechanics.
 
-![](https://github.com/Guven-K/Guven-K/blob/main/astro.gif) 
+![](https://github.com/Guven-K/Guven-K/blob/main/astro.gif)  ![](https://github.com/Guven-K/Guven-K/blob/main/coin.gif)
 ---
 
 ## ⚡ Fun Facts  

@@ -41,7 +41,7 @@
 ---
 
 ## 🎯 Personal Goals & Aspirations
-- Master **C++** in 2025.
+- Master **C#** and advanced techniques in 2025.
 - Contribute to more open-source projects and build impactful tools for the developer community.
 
 ---

@@ -13,7 +13,7 @@
   - **Pixel Odyssey** (GameMaker Studio project featuring diverse space exploration and showcasing my capabilities in game development).  
   - **Avalonia Portfolio App** (customisable and user-friendly project showcase).  
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#.
-- 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and strive towards becoming a well-rounded, experienced developer with a focus on impactful projects and continuous growth.  
+- 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
 
 ---
 
@@ -42,7 +42,9 @@
 
 ## 🎯 Personal Goals & Aspirations
 - Master **C#** and advanced techniques in 2025.
+- Complete and polish **Avalonia projects**, focusing on creating customisable, user-friendly, and visually appealing applications.
 - Contribute to more open-source projects and build impactful tools for the developer community.
+- Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.
 
 ---
 

@@ -37,6 +37,7 @@
 - 🎮 Avid gamer and tech enthusiast with a knack for tinkering with systems.  
 - 🎨 Lover of art and game design, blending creativity with technical expertise.  
 - 🏡 Born and raised in London, with a strong connection to family and community.  
+- Loves Astronomy, deep interest in Black Holes and hidden treasures in our universe. 
 
 ---
 

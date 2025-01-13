@@ -42,7 +42,7 @@
 ---
 
 ## 🎯 Personal Goals & Aspirations
-- Master **C#** and advanced techniques in 2025.
+- Master **C#** and advanced techniques such as Async and Multithreading in 2025.
 - Complete and polish **Avalonia projects**, focusing on creating customisable, user-friendly, and visually appealing applications.
 - Contribute to more open-source projects and build impactful tools for the developer community.
 - Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.

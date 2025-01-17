@@ -48,7 +48,5 @@
 - Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.
 
 ---
-
-## ✉️ Let's get in touch
-- Follow me on Instagram! @guven_dev 
+ 
 

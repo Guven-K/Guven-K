@@ -50,4 +50,5 @@
 ---
 ## ✉️ Let's get in touch
 - Follow me on Instagram! @guven_dev 
+- Open to commissions or paid opportunities for creating desktop application or web apps 
 

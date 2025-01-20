@@ -11,7 +11,7 @@
 - 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  
 - 🔭 Currently working on:  
   - **Pixel Odyssey** (GameMaker Studio project featuring diverse space exploration and showcasing my capabilities in game development).  
-  - **Avalonia Portfolio App** (customisable and user-friendly project showcase).  
+  - **Avalonia Portfolio App** (customisable showcase).  
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#.
 - 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
 
@@ -30,25 +30,24 @@
   - Unity: Experience with game development projects.  
   - GameMaker Studio: Developing creative and immersive gameplay mechanics.
 
-
 ---
 
 ## ⚡ Fun Facts  
 - 🎮 Avid gamer and tech enthusiast with a knack for tinkering with systems.  
 - 🎨 Lover of art and game design, blending creativity with technical expertise.  
 - 🏡 Born and raised in London, with a strong connection to family and community.  
-- 💫Loves Astronomy, deep interest in Black Holes and hidden treasures in our universe. 
-
+- 💫 Loves Astronomy, with a deep interest in black holes and hidden treasures in our universe.
+  
 ---
 
 ## 🎯 Personal Goals & Aspirations
-- Master **C#** and advanced techniques such as Async and Multithreading in 2025.
+- Deepen my mastery of **C#** by exploring advanced concepts like **Async** and **Multithreading** to build highly efficient and scalable applications.
 - Complete and polish **Avalonia projects**, focusing on creating customisable, user-friendly, and visually appealing applications.
 - Contribute to more open-source projects and build impactful tools for the developer community.
 - Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.
 
 ---
 ## ✉️ Let's get in touch
-- Follow me on Instagram! @guven_dev 
-- Open to commissions or paid opportunities for creating desktop application or web apps 
+- Follow me on Instagram! @guven_dev
+- Open to commissions or paid opportunities to develop bespoke desktop applications or dynamic web apps. Let's create something amazing together!  
 

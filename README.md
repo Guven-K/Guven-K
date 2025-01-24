@@ -13,6 +13,7 @@
   - **Pixel Odyssey** (GameMaker Studio project featuring diverse space exploration and showcasing my capabilities in game development).  
   - **Avalonia Portfolio App** (customisable showcase).  
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#.
+- 🌐 **Personal Portfolio** website to showcase my projects 
 - 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
 
 ---

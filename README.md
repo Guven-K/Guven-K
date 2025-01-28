@@ -49,6 +49,5 @@
 
 ---
 ## ✉️ Let's get in touch
-- Follow me on Instagram! @guven_dev
 - Open to commissions or paid opportunities to develop bespoke desktop applications or dynamic web apps. Let's create something amazing together!  
 

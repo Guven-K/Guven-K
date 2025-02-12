@@ -5,7 +5,7 @@
 **Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there! 👋 I'm <span style="color🟩">Guven</span>
+# Hi there! 👋 I'm ![Guven](https://via.placeholder.com/150x40/008000/FFFFFF?text=Guven)
 
 ## 🌟 About Me  
 - 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  

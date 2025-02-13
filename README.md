@@ -1,11 +1,8 @@
 <!--
 **Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--
-**Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-# Hi there! 👋 I'm Guven
+# Hi there! 👋 I'm $\textcolor{green}{\textsf{Guven}}$
 
 
 ## 🌟 About Me  

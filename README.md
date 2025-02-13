@@ -29,6 +29,11 @@
   - Unity: Experience with game development projects.  
   - GameMaker Studio: Developing creative and immersive gameplay mechanics.
 
+- **IDE**
+  - Visual Studio 2022 (Software Development)
+  - Visual Studio Code (Web Development, Scripting)
+  - JetBrains Rider (Software Development, Mainly on MacBook)
+  - xCode (iOS, Swift)
 ---
 
 ## ⚡ Fun Facts  

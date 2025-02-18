@@ -33,7 +33,7 @@
   - Visual Studio 2022 (Software Development)
   - Visual Studio Code (Web Development, Scripting)
   - JetBrains Rider (Software Development, Mainly on MacBook)
-  - xCode (iOS, Swift)
+
 ---
 
 ## ⚡ Fun Facts  
@@ -53,6 +53,6 @@
 ---
 ## ✉️ Let's get in touch
 - Open to commissions or paid opportunities to develop bespoke desktop applications or dynamic web apps. Let's create something amazing together!  
-- Follow me on instagram: @guven_dev
-- Email support will be added later 
+- Follow me on Instagram: @guven_dev
+- Email support will be added later.
 

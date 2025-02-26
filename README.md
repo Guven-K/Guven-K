@@ -36,6 +36,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight)
 
+![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-%233776AB.svg?style=for-the-badge&logo=avalonia&logoColor=white)
+
 ---
 
 ## ⚡ Fun Facts  

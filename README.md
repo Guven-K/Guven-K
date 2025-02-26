@@ -55,3 +55,5 @@
 - Open to commissions or paid opportunities to develop bespoke desktop applications or dynamic web apps. Let's create something amazing together!  
 - Follow me on Instagram: @guven_dev
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guven-K&show_icons=true&theme=tokyonight)
+

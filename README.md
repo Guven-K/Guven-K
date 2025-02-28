@@ -28,6 +28,7 @@
   - WPF: Familiar with creating Windows desktop applications.  
   - Unity: Experience with game development projects.  
   - GameMaker Studio: Developing creative and immersive gameplay mechanics.
+  - Three.js: Developing 3D visuals in web applications.
 
 - **IDE**
   - Visual Studio 2022 (Software Development)

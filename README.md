@@ -54,6 +54,17 @@
 - Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.
 
 ---
+
+## 💖 Support My Work
+
+If you find my projects useful and want to support my open-source work, consider becoming a **GitHub Sponsor**!  
+Your support helps me continue developing tools, apps, and games I share with the community.
+
+👉 **[Sponsor Me on GitHub](https://github.com/sponsors/Guven-K)**  
+
+Thank you for any support, whether it's a sponsorship, a star ⭐ on my repos, or sharing my work!
+
+---
 ## ✉️ Let's get in touch
 - Open to commissions or paid opportunities to develop bespoke desktop applications or dynamic web apps. Let's create something amazing together!  
 - Follow me on Instagram: @guven_dev

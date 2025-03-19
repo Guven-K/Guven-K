@@ -23,6 +23,7 @@
   - Python: Experience with scripting and automation.  
   - JavaScript: Knowledge of front-end basics for web applications. 
   - HTML & CSS: Comfortable creating responsive and visually appealing web designs.  
+- Three.js: For animation and 3D interactive web games. 
 
 - **Frameworks & Tools**:  
   - Avalonia: Focused on cross-platform GUI development.  

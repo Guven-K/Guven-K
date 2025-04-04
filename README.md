@@ -20,7 +20,7 @@
 ## 🛠️ Programming Languages & Frameworks  
 - **Languages**:  
   - C#: Proficient in building applications, including GUI-based tools and game logic.  
-  - Python: Experience with scripting and automation.  
+  - Python: Experience with scripting and automation. Including Object Oriented Programming.
   - JavaScript: Knowledge of front-end basics for web applications. 
   - HTML & CSS: Comfortable creating responsive and visually appealing web designs.  
 - Three.js: For animation and 3D interactive web games. 

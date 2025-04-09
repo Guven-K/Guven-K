@@ -10,7 +10,7 @@
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
   - **Pixel Odyssey** (GameMaker Studio project featuring diverse space exploration and explore capabilities in game development).
- - **Personal Portfolio Site** Showcase my personal projects and little info about myself. 
+  - **Personal Portfolio Site** A showcase of my projects and a little information about myself. 
   
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#. 
 - 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  

@@ -68,6 +68,6 @@ Thank you for any support, whether it's a sponsorship, a star ⭐ on my repos, o
 
 ---
 ## ✉️ Let's get in touch
-- Open to commissions or paid opportunities to develop bespoke desktop applications or dynamic web apps. Let's create something amazing together!  
+- Open to commissions or paid opportunities to develop bespoke desktop applications or website. Let's create something amazing together!  
 
 

@@ -35,7 +35,6 @@
 - **IDE**
   - Visual Studio 2022 (Software Development)
   - Visual Studio Code (Web Development, Scripting)
-  - JetBrains Rider (Software Development, Mainly on MacBook)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight)
 

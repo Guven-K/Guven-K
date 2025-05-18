@@ -41,7 +41,8 @@
 ---
 
 ## ⚡ Fun Facts  
-- 🎮 Avid gamer and tech enthusiast with a knack for tinkering with systems.  
+- 🎮 Avid gamer and tech enthusiast with a knack for tinkering with systems.
+- ✈  Passionate traveller 
 - 🎨 Lover of art and game design, blending creativity with technical expertise.  
 - 🏡 Born and raised in London, with a strong connection to family and community.  
 - 💫 Loves Astronomy, with a deep interest in black holes and hidden treasures in our universe.

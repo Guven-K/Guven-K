@@ -9,7 +9,6 @@
 - 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
-  - **Pixel Odyssey** (a GameMaker Studio project featuring diverse space exploration and exploration capabilities in game development).
   - **Personal Portfolio Site** (A showcase of my projects and a little information about myself). 
   
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#. 

@@ -9,7 +9,8 @@
 - 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
-  - **Personal Portfolio Site** (A showcase of my projects and a little information about myself). 
+  - **Personal Portfolio Site** (A showcase of my projects and a little information about myself).
+  - **Untitled Project** (Working on making a web app)
   
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#. 
 - 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  

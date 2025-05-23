@@ -42,7 +42,7 @@
 
 ## ⚡ Fun Facts  
 - 🎮 Avid gamer and tech enthusiast with a knack for tinkering with systems.
-- ✈  Huge Passion for traveling, always seeking breathtaking landscapes, cultural experiences, and inspiration for new projects. 
+- ✈  Huge Passion for travelling, always seeking breathtaking landscapes, cultural experiences, and inspiration for new projects. 
 - 🎨 Lover of art and game design, blending creativity with technical expertise.  
 - 🏡 Born and raised in London, with a strong connection to family and community.  
 - 💫 Loves Astronomy, with a deep interest in black holes and hidden treasures in our universe.

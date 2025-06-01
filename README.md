@@ -13,7 +13,7 @@
   - **Untitled Project** (Working on making a web app)
   
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#. 
-- 🚀 **Bigger plans for 2025**: Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
+- 🚀 Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
 
 ---
 

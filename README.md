@@ -6,7 +6,7 @@
 
 
 ## 🌟 About Me  
-- 💻 **Software Engineer** with a focus on **C#** and **Avalonia**.  
+Hi! My name is Guven. I'm a **Software Engineer** with a focus on **C#** and **Avalonia** with a strong passion for Technology and Creativity!.  
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
   - **Personal Portfolio Site** (A showcase of my projects and a little information about myself).

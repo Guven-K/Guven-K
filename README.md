@@ -1,6 +1,4 @@
-<!--
-**Guven-K/Guven-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 # Hi there! 👋 I'm Guven
 
@@ -12,7 +10,7 @@ Hi! My name is Guven. I'm a **Software Engineer** with a focus on **C#** and **A
   - **Personal Portfolio Site** (A showcase of my projects and a little information about myself).
   - **Untitled Project** (Working on making a web app in React Native)
   
-- 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#. 
+- 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#
 - 🚀 Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
 
 ---

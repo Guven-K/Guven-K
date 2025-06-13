@@ -56,5 +56,3 @@ Hi! My name is Guven. I'm a **Software Engineer** with a focus on **C#** and **A
 ---
 ## ✉️ Let's get in touch
 - Open to commissions or paid opportunities to develop bespoke desktop applications or websites. Let's create something amazing together!  
-
-

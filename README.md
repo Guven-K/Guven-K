@@ -33,6 +33,7 @@ Hi! My name is Guven. I'm a **Software Engineer** with a focus on **C#** and **A
 - **IDE**
   - Visual Studio 2022 (Software Development)
   - Visual Studio Code (Web Development, Scripting)
+  - JetBrains Rider (Software Dev on Mac)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight)
 

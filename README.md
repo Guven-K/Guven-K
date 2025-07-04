@@ -53,6 +53,7 @@ Hi! My name is Guven. I'm a **Software Engineer** with a strong focus on **C#** 
 - Complete and polish **Avalonia projects**, focusing on creating customisable, user-friendly, and visually appealing applications.
 - Contribute to more open-source projects and build impactful tools for the developer community.
 - Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.
+- Become a senior developer one day!
 
 ---
 ## ✉️ Let's get in touch

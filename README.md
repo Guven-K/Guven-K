@@ -4,7 +4,7 @@
 
 
 ## 🌟 About Me  
-Hi! My name is Guven. I'm a **Junior Software Engineer** with a strong focus on **C#** and **Avalonia** who loves building software as well as creates beautfiul website. A strong passion for Technology and Creativity!
+Hi! My name is Guven. I'm a **Junior Software Engineer** with a strong focus on **C#** and **Avalonia** who loves building software. A strong passion for Technology and Creativity!
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
   - **Personal Portfolio Site** (A showcase of my projects and a little information about myself).

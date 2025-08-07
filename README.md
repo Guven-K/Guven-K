@@ -58,4 +58,3 @@ Hi! My name is Guven. I'm a **Junior Software Engineer** with a strong focus on 
 ## ✉️ Let's get in touch
 - Open to commissions or paid opportunities to develop bespoke desktop applications or websites. Let's create something amazing together!
 
-

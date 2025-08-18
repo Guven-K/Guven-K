@@ -54,8 +54,8 @@ Hi! My name is Guven. I'm a **Junior Software Engineer** with a strong focus on 
 - Contribute to more open-source projects and build impactful tools for the developer community.
 - Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth in 2025.
 
-
 ---
+
 ## ✉️ Let's get in touch
 - Open to commissions or paid opportunities to develop bespoke desktop applications or websites. Let's create something amazing together!
 

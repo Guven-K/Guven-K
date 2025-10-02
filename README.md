@@ -27,6 +27,7 @@ Hi! My name is Guven. I'm a **Junior Software Engineer** with a strong focus on 
   - Unity: Experience with game development projects.  
   - GameMaker Studio: Developing creative and immersive gameplay mechanics.
   - Three.js: Developing 3D visuals in web applications.
+  - React: Web based apps
 
 - **IDE**
   - Visual Studio 2022 (Software Development)

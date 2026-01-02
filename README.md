@@ -6,7 +6,7 @@ Hi! My name is Guven. I'm a **Software Engineer** with a strong focus on **C#** 
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
   - **Revamped Portfolio Site** (A showcase of my projects and information about myself).
-  - **Untitled Project** (Working on making a voip gaming web app in React Native)
+  - **Untitled Project** (Working on making a voip gaming web app in Avalonia)
   
 - 🌱 Always learning and improving my skills, currently delving deeper into **Dependency Injection** and **algorithms** in C#
 - 🚀 Aiming to enhance my expertise and become a well-rounded, experienced developer focusing on impactful projects and continuous growth.  
@@ -16,7 +16,7 @@ Hi! My name is Guven. I'm a **Software Engineer** with a strong focus on **C#** 
 ## 🛠️ Programming Languages & Frameworks  
 - **Languages**:  
   - C#: Proficient in building applications, including GUI-based tools and game logic.  
-  - Python: Experience with scripting and automation. Including Object Oriented Programming.
+  - Python: Experience with scripting and automation. 
   - JavaScript: Knowledge of front-end basics for web applications. 
   - HTML & CSS: Comfortable creating responsive and visually appealing web designs.  
   - Three.js: For animation and 3D interactive web games. 

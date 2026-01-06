@@ -30,7 +30,7 @@ Hi! My name is Guven. I'm a **Software Engineer** with a strong focus on **C#** 
   - React: Web based apps
 
 - **IDE**
-  - Visual Studio 2022 (Software Development)
+  - Visual Studio 2022 and 2026 (Software Development)
   - Visual Studio Code (Web Development, Scripting)
   - JetBrains Rider (Software Dev on Mac)
 
@@ -45,11 +45,4 @@ Hi! My name is Guven. I'm a **Software Engineer** with a strong focus on **C#** 
 - 🏡 Born and raised in London
 - 💫 Loves Astronomy, with a deep interest in black holes and hidden treasures in our universe.
   
----
-
-## 🎯 Personal Goals & Aspirations
-- Deepen my mastery of **C#** by exploring advanced concepts like **Async** and **Multithreading** to build highly efficient and scalable applications.
-- Complete and polish **Avalonia projects**, focusing on creating customisable, user-friendly, and visually appealing applications.
-- Contribute to more open-source projects and build impactful tools for the developer community.
-- Strive to become a well-rounded, experienced developer focusing on innovation and continuous growth.
 

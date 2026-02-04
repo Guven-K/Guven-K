@@ -27,7 +27,8 @@ A **Software Engineer** with a strong focus on **C#** and **Avalonia** who loves
   - Visual Studio Code (Web Development, Scripting)
   - JetBrains Rider (Software Dev on Mac)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight&v=2)
+
 
 ---
 

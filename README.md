@@ -4,8 +4,6 @@ A **Software Engineer** with a strong focus on **C#** and **Avalonia** who loves
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
   - **Revamped Portfolio Site** (A showcase of my projects and information about myself).
-  - **Untitled Project** (Working on making a voip gaming web app in Avalonia)
-
 ---
 
 ## 🛠️ Programming Languages & Frameworks  

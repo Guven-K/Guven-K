@@ -24,10 +24,11 @@ A **Software Engineer** with a strong focus on **C#** and **Avalonia** who loves
 
 - **IDE**
   - Visual Studio 2022 and 2026 (Software Development)
-  - Visual Studio Code (Web Development, Scripting)
+  - Visual Studio Code and Cursor (Web Development, Scripting)
   - JetBrains Rider (Software Dev on Mac)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guven-K&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 
 ---

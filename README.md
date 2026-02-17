@@ -32,7 +32,7 @@ A **Software Engineer** with a strong focus on **C#**, **WPF** and **Avalonia** 
 
 ---
 
-## ⚡ Fun Facts  
+## ⚡ Facts about me
 - 🎮 Avid gamer and tech enthusiast with a knack for tinkering with systems.
 - ✈  Huge Passion for travelling, always seeking breathtaking landscapes, cultural experiences, and inspiration for new projects. 
 - 🎨 Lover of art and game design, blending creativity with technical expertise.  

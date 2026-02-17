@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Guven
 
-A **Software Engineer** with a strong focus on **C#**, **WPF** and **Avalonia** who loves building software. A strong passion for Technology and Creativity!
+A **Software Engineer** with a strong focus on **C#**, **WPF** and **Avalonia** who loves building software and UI. A strong passion for Technology and Creativity!
 - 🔭 Currently working on:
   - **MyFolio App** (Customisable portfolio app made with Avalonia).    
   - **Revamped Portfolio Site** (A showcase of my projects and information about myself).
